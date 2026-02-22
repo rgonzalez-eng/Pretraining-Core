@@ -1,4 +1,4 @@
--# 🛡️ Weekly Stress Test: Week 01 (Navigation Mastery)
+# 🛡️ Weekly Stress Test: Week 01 (Navigation Mastery)
 **Date:** [Friday/Saturday]
 **Verdict:** [PASS / FAIL / PARTIAL]
 
